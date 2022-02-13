@@ -1,1 +1,1 @@
-git+https://github.com/Nigho/seatconnect@main#egg=seatconnect
+git+https://github.com/Nigho/seatconnect@674bafb72d117931ec7365a6a22ddaba2f4ef813#egg=seatconnect
